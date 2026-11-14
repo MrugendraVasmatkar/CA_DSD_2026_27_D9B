@@ -8,7 +8,7 @@ The problem statements have already been provided separately. Each group must us
 |---|---|
 | `CA1/` | Problem understanding, architecture, FSM/datapath design and Logisim evidence |
 | `CA2/` | Verilog RTL, testbench and simulation/verification evidence |
-| `CA3/` | FPGA implementation, hardware demonstration and final results |
+| `CA3/` | PPT Presentation & FPGA implementation, hardware demonstration and final results |
 
 Read the `README.md` inside each CA folder before uploading work.
 
