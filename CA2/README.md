@@ -1,4 +1,5 @@
-# CA2 — Verilog RTL and Simulation Submission
+**CA 2 – FSM + Datapath:**
+   Implement the **FSM and Part 1 datapath using Verilog HDL**. This will be treated as a **Mini Project**.
 
 Submit the Verilog implementation of the design developed in CA1. The implementation must correspond to your group's allotted problem statement and documented architecture.
 
